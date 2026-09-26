@@ -178,23 +178,23 @@ The public screenshots have been sanitized to remove local IP addresses and MAC 
 
 ### 2. Host Discovery
 
-![Host Discovery](screenshots/02-host-discovery-public.png)
+![Host Discovery](screenshots/02-host-discovery.png)
 
 ### 3. TCP Port Scan
 
-![TCP Port Scan](screenshots/03-port-scan-public.png)
+![TCP Port Scan](screenshots/03-port-scan.png)
 
 ### 4. Service Detection
 
-![Service Detection](screenshots/04-service-detection-public.png)
+![Service Detection](screenshots/04-service-detection.png)
 
 ### 5. Wireshark ICMP Analysis
 
-![Wireshark ICMP](screenshots/05-wireshark-icmp-public.png)
+![Wireshark ICMP](screenshots/05-wireshark-icmp.png)
 
 ### 6. Wireshark TCP 3306 Analysis
 
-![Wireshark TCP 3306](screenshots/06-wireshark-tcp-3306-public.png)
+![Wireshark TCP 3306](screenshots/06-wireshark-tcp-3306.png)
 
 # Conclusion
 
